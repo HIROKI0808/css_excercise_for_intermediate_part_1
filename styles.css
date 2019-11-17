@@ -37,8 +37,8 @@ td {
  * - ボーダーは「太さは1px」「スタイルはsolid」「色は#000000」とする
  */
 .vertical {
-		border-left: 1px solid #000000;
-		border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-right: 1px solid #000000;
 }
 
 
